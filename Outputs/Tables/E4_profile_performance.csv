@@ -1,0 +1,13 @@
+group,n,recall,fpr
+A0,63,1.0,
+A1,80,1.0,
+A2,85,1.0,
+A3,71,0.8873239436619719,
+A4,76,0.6052631578947368,
+HN_audit_finance,20,,0.0
+HN_backup_op,26,,0.0
+HN_batch_script,25,,0.0
+HN_curious_newhire,21,,0.0
+HN_late_admin,24,,0.0
+HN_pwd_seeker,25,,0.0
+ordinary_normal,859,,0.018626309662398137
